@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SillyAndroid</string>
+
+    <!-- Navigation -->
+    <string name="nav_chats">聊天</string>
+    <string name="nav_characters">角色</string>
+    <string name="nav_agents">Agent</string>
+    <string name="nav_settings">设置</string>
+
+    <!-- Chat -->
+    <string name="new_chat">新建聊天</string>
+    <string name="chat_checkpoint">检查点</string>
+    <string name="chat_branch">创建分支</string>
+    <string name="close_chat">关闭聊天</string>
+    <string name="manage_chats">管理聊天文件</string>
+    <string name="chat_continue">继续</string>
+    <string name="attach_file">附加文件</string>
+    <string name="prompt_viewer">提示词查看器</string>
+    <string name="log_viewer">日志查看器</string>
+
+    <!-- Characters -->
+    <string name="character_name">角色名称</string>
+    <string name="character_description">角色描述</string>
+    <string name="character_personality">角色性格</string>
+    <string name="character_first_message">开场消息</string>
+    <string name="character_scenario">场景设定</string>
+    <string name="character_example_dialogue">对话示例</string>
+    <string name="character_system_prompt">系统提示词</string>
+    <string name="character_world_book_bindings">关联世界书条目</string>
+    <string name="import_character">导入角色卡</string>
+    <string name="export_character">导出角色卡</string>
+
+    <!-- World Book -->
+    <string name="world_book">世界书</string>
+    <string name="world_book_entry">条目</string>
+    <string name="wb_key">触发键</string>
+    <string name="wb_content">内容</string>
+    <string name="wb_priority">优先级</string>
+    <string name="wb_position">插入位置</string>
+    <string name="wb_depth">扫描深度</string>
+    <string name="wb_selective">选择性</string>
+    <string name="wb_constant">常驻</string>
+
+    <!-- Agent -->
+    <string name="agent_task">Agent 任务</string>
+    <string name="agent_step">步骤</string>
+    <string name="agent_add_step">添加步骤</string>
+    <string name="agent_run">运行任务</string>
+    <string name="agent_pause">暂停</string>
+    <string name="agent_resume">恢复</string>
+
+    <!-- Settings -->
+    <string name="api_settings">API 设置</string>
+    <string name="api_endpoint">API 端点</string>
+    <string name="api_key">API 密钥</string>
+    <string name="model_name">模型名称</string>
+    <string name="generation_presets">生成预设</string>
+    <string name="temperature">温度</string>
+    <string name="max_tokens">最大 Tokens</string>
+    <string name="top_p">Top P</string>
+    <string name="frequency_penalty">频率惩罚</string>
+    <string name="presence_penalty">存在惩罚</string>
+
+    <!-- General -->
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="confirm">确认</string>
+    <string name="send">发送</string>
+    <string name="edit">编辑</string>
+    <string name="retry">重试</string>
+</resources>
