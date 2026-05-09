@@ -1,3 +1,4 @@
+
 name: Android Build
 
 on:
@@ -33,6 +34,9 @@ jobs:
         uses: gradle/actions/setup-gradle@v4
         with:
           validate-wrappers: false
+
+      - name: Grant execute permission for gradlew
+        run: chmod +x gradlew
 
       - name: Setup Android SDK
         uses: android-actions/setup-android@v3
