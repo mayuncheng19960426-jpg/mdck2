@@ -13,9 +13,9 @@
         android:fillColor="#FFFFFF"
         android:pathData="M30,35 L78,35 C82,35 85,38 85,42 L85,62 C85,66 82,69 78,69 L50,69 L38,78 L42,69 L30,69 C26,69 23,66 23,62 L23,42 C23,38 26,35 30,35 Z" />
     <!-- Horizontal lines (text hints) -->
-    <path                                                                                                                                                                                            ││                                                                            │
-            android:pathData="M38,46 L70,46..."                                                                                                                                                          ││                                                                            │
-            android:strokeWidth="3"                                                                                                                                                                      ││                                                                            │
-            android:strokeColor="#6750A4"                                                                                                                                                                ││                                                                            │
-            android:fillColor="#00000000" />  
+    <path
+        android:pathData="M38,46 L70,46 M38,53 L62,53 M38,60 L54,60"
+        android:strokeWidth="3"
+        android:strokeColor="#6750A4"
+        android:fillColor="#00000000" />
 </vector>
